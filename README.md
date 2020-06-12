@@ -4,10 +4,10 @@
 
 然后我就找到了这篇文章：
 
-[SM4算法的ECB模式在java和js中]: https://blog.csdn.net/qq_37175367/article/details/101756240?utm_medium=distribute.pc_relevant.none-task-blog-baidujs-1
+[SM4算法的ECB模式在java和js中的一些区别](https://blog.csdn.net/qq_37175367/article/details/101756240?utm_medium=distribute.pc_relevant.none-task-blog-baidujs-1 )
 
 大概看懂了是怎么回事儿，觉得很有道理，但是一想，淦，我怎么自己改Java的算法啊，我是一个前端啊，于是我呼叫了场外援助，有请后端大佬帮忙，在网上总算是找到了一个和前端加解密结果一样的Java代码了。
 
-[Java实现国密算法SM2,SM3,SM]: https://blog.csdn.net/Soul_Programmer_Swh/article/details/80375958?utm_medium=distribute.pc_relevant.none-task-blog-baidujs-2
+[Java实现国密算法SM2,SM3,SM](https://blog.csdn.net/Soul_Programmer_Swh/article/details/80375958?utm_medium=distribute.pc_relevant.none-task-blog-baidujs-2 )
 
 所以，来记录分享一下这个问题，面向CSDN编程的程序员真的太难了唉。
